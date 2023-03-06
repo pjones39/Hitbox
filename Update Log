@@ -1,0 +1,9 @@
+HITBOX library update log
+by Pierce Jones
+---
+v.1.0 - creation
+v.1.1 - added CvC, CvR, CvP
+v.1.2 - fixed return with 'try's
+v.2.0 - Added window collision with objects
+v.2.1 - Fixed True return axis values
+---
